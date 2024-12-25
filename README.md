@@ -20,12 +20,4 @@ RapidAPI 是由开发人员为开发人员制作的，因此他们可以在一�
 
 5. **RapidAPI Client**：RapidAPI Design by Paw 是一个功能齐全的 API 客户端，可加速 API 交付并改善开发人员体验。它通过提供具有直观 UI 和卓越性能的 API 客户端来简化开发工作流程并简化 API 协作。
 
-## 三、RapidAPI 如何付费呢？
 
-[这里需要开一张Fomepay的虚拟信用卡即可付费，我这里使用的是邀请码 Q3DD80 进行付费，点击获取虚拟卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
-
-
-卡信息在卡中心 cvc 卡密里面
-
-
-![image](https://github.com/rm8272639/RapidAPI/assets/169961560/50e91301-6b28-4a85-abf9-767781ce0b3b)
